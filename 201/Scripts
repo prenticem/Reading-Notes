@@ -1,0 +1,15 @@
+main.js
+<script src="scripts/main.js"></script>
+
+This is doing the same job as the <link> element for CSS.
+const myHeading = document.querySelector("h1");
+myHeading.textContent = "Hello world!";
+
+The heading text changed to Hello world! using JavaScript. You did this by using a function called querySelector
+
+Variables are containers that store values. You start by declaring a variable with the let keyword, followed by the name you give to the variable:
+let myVariable;
+
+JavaScript is case sensitive. This means myVariable is not the same as myvariable. If you have problems in your code, check the case!
+myVariable = "Bob";
+
