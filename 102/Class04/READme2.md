@@ -157,35 +157,5 @@ Fill in the value of this attribute with the web address that you want the link 
 Copy to Clipboard
 You might get unexpected results if you omit the https:// or http:// part, called the protocol, at the beginning of the web address. After making a link, click it to make sure it is sending you where you wanted it to.
 
-Note: href might appear like a rather obscure choice for an attribute name at first. If you are having trouble remembering it, remember that it stands for hypertext reference.
-
-Add a link to your page now, if you haven't already done so.
-
-Conclusion
-If you have followed all the instructions in this article, you should end up with a page that looks like the one below (you can also view it here):
-
-A web page screenshot showing a Firefox logo, a heading saying Mozilla is cool, and two paragraphs of filler text
-If you get stuck, you can always compare your work with our finished example code on GitHub.
-
-Here, we have only really scratched the surface of HTML. To find out more, go to our Learning HTML topic.
-
-Previous
-Overview: Getting started with the web
-Next
-In this module
-Installing basic software
-What will your website look like?
-Dealing with files
-HTML basics
-CSS basics
-JavaScript basics
-Publishing your website
-How the web works
-Found a content problem with this page?
-Edit the page on GitHub.
-Report the content issue.
-View the source on GitHub.
-Want to get more involved? Learn how to contribute.
-This page was last modified on Nov 7, 2022 by MDN contributors.
-
-Your blueprint for a better internet.
+Things i want to know
+how to use this format to create my website
