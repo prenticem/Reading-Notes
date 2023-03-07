@@ -7,5 +7,9 @@ function questions() {
     alert(a3 + " was the MVP");
     let a4 = prompt("What is your team colors");
     alert(a4 + " your teams colors are my favorite color");
+    let a5 = prompt("what is the coach name?");
+    alert(a5 + "That's one of the best coaches ever")
+    let a6 = prompt("Who is the owner?");
+    alert(a6 + "He really care about the team")
 
 }
