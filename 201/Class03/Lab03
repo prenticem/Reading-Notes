@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab01</title>
+    <style>
+        h1 {
+            color: blueviolet;
+            background-color: bisque;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Class 1 Lab</h1>
+    </header>
+    <p style="color: blue; background-color: yellow;" >what is your favorite sports team?</p> 
+       <p style="color: red; background-color: green;" >What year was the last championship?</p> 
+       <p style="color:aqua; background-color:orange;"> What is your favorite player on the team?</p>
+       <p style="color:black; background-color:brown;"> What are the team colors?</p> 
+       <p style="color: red; background-color: green;" >Guess a number in between 1-50?</p>
+       <p style="color: blueviolet; background-color: brown;">What is the coach name?</p>
+       <p style="color:greenyellow;background-color:silver;">Who is the owner?</p>
+   
+    <button onclick="questions()">Ask me these questions!</button>
+    <h1>These are my top 10 things to do in my free time</h1>
+    <ul>
+        <li>1. Church </li>
+        <li>2. Family </li>
+        <li>3. Traveling </li>
+        <li>4. Fishing </li>
+        <li>5. Cook </li>
+        <li>6. Sports </li>
+        <li>7. Food </li>
+        <li>8. Water </li>
+        <li>9. Amianal Channel </li>
+        <li>10. Sitting Outside </li>
+    
+        <h1> Work History</h1>
+        <li>Little Caesars</li>
+        <li>Cook Out</li>
+        <li>Youth Villages</li>
+        <li>Boy's & Girl's Club</li>
+        <li>Target Warehouse</li>
+        <li>Thomson Industrial Services</li>
+        <li>Kyrstal's</li>
+        <li>Fedex Supply Chain</li>
+        <li>Home Depot</li>
+        
+        <h1>Try Me</h1>
+        <li>Guess A Number From 1 - 100</li>
+        
+
+    
+        <button onclick="questions()">Try Me!</button>
